@@ -1,6 +1,4 @@
-# packages-used
-brief guide on Django RestFramework development,
+# packages-used-django
+list of packages used in past/current backend projects; implementations, docs, problems,
 
-list of packages used in past/current backend projects; implementations, docs, problems, etc
-
-troubleshooting, and past problems with solutions
+troubleshooting, and past problems with solutions.
